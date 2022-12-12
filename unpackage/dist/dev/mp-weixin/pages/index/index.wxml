@@ -1,0 +1,1 @@
+<view class="content"><button data-event-opts="{{[['tap',[['onFetch',['$event']]]]]}}" bindtap="__e">点击测试请求</button></view>
