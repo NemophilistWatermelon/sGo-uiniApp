@@ -1,3 +1,2 @@
-./node_modules
-node_modules
-.hbuilderrx
+**/node_modules
+.hbuilderx
